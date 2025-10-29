@@ -17,6 +17,12 @@
       "description": "What's New:<br>New vehicle and realistic suspensions.<br>Simple vehicle assembly.<br>Menu map.<br>New auto repair shop models.<br>Photo capture and storage via the in-game phone.<br>Music player app integrated into the in-game phone.<br>New camera control.<br><br>Improvements:<br>Enhanced performance.<br><br>Fixes:<br>Addressed input issues.",
       "note": " ",
       "version": "0.0.6"
+    },
+    {
+      "title": "Maintenance Update\\Bakım Güncellemesi\\Обновление\\Manutenção",
+      "description": "Technical update required by Google Play. No new features in this version.<br><br>I'm working on a major update. Stay tuned!<br>- Jahn Star\\Google Play tarafından zorunlu teknik güncelleme. Bu sürümde yenilik yok.<br><br>Büyük bir güncelleme üzerinde çalışıyorum. Takipte kalın!<br>- Jahn Star\\Техническое обновление Google Play. Нет новых функций.<br><br>Я работаю над крупным обновлением. Следите за новостями!<br>- Jahn Star\\Atualização técnica do Google Play. Sem novos recursos.<br><br>Estou trabalhando em uma grande atualização. Fique ligado!<br>- Jahn Star",
+      "note": " ",
+      "version": "0.0.7"
     }
   ]
 }
